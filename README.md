@@ -39,6 +39,8 @@ LASA Young Democratic Socialists of America
 
    	 a.  For new semesters, voting rights can carry over for members of the previous semester within the first 6 meetings
 
+4. Members may be removed from the organization permanently by a 2/3 majority of voting members, where the member in question is barred from voting, at a regular meeting. All debates about the removal of the member in question, they must not be present for.
+
 ## ARTICLE IV: STEERING COMMITTEE & DUTIES
 
 1.  The Steering Committee shall be composed of two (2) Co-Chairs,
