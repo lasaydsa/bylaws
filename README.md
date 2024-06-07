@@ -44,7 +44,7 @@ LASA Young Democratic Socialists of America
 ## ARTICLE IV: STEERING COMMITTEE & DUTIES
 
 1.  The Steering Committee shall be composed of two (2) Co-Chairs,
-    one (1) Vice-Chair one (1) Secretary, one (1) Treasurer
+    one (1) LASA Coordinator one (1) Secretary, one (1) Treasurer
 
 2.  To be eligible for the Steering Committee, candidates must be
     members of the Chapter.
@@ -101,15 +101,15 @@ LASA Young Democratic Socialists of America
 
     e.  To write updates to send via email to everyone on the organization's email list at least once per month
 
-10. The duties of the Vice-Chair shall be:
+10. The duties of the LASA Coordinator shall be:
 
-    a.  To assist the Chair in their responsibilities and be prepared to be delegated some responsibilities of the Chair
+    a.  To facilitate outreach and partnerships with other clubs at LASA
 
-    b.  To fulfill the Chair's responsibilities in absence of the Chair
+    b.  To manage relationships with LASA faculty and Education Austin
 
-    c.  To fill in for other officers in their absence, when necessary
+     c. To facilitate general outreach with students on campus, and may attract new members
 
-11. The duties of the Secretary shall be:
+12. The duties of the Secretary shall be:
 
     a.  To take minutes at general meetings
 
@@ -120,7 +120,13 @@ LASA Young Democratic Socialists of America
 
     d.  To send email updates written by the Co-Chairs to membership
 
-12. The duties of the Treasurer shall be:
+    e.  To assist the Chair in their responsibilities and be prepared to be delegated some responsibilities of the Chair
+
+    f.  To fulfill the Chair's responsibilities in absence of the Chair
+
+    g.  To fill in for other officers in their absence, when necessary
+
+13. The duties of the Treasurer shall be:
 
     a.  To manage any funds of the organization
 
